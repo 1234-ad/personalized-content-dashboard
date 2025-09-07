@@ -1,0 +1,70 @@
+# Robots.txt for Personalized Content Dashboard
+# https://personalized-content-dashboard.vercel.app/robots.txt
+
+User-agent: *
+Allow: /
+
+# Allow crawling of main content areas
+Allow: /news
+Allow: /movies
+Allow: /social
+Allow: /trending
+Allow: /favorites
+Allow: /category/
+Allow: /search
+
+# Disallow private/sensitive areas
+Disallow: /api/
+Disallow: /auth/
+Disallow: /settings
+Disallow: /profile
+Disallow: /_next/
+Disallow: /admin/
+
+# Allow specific API endpoints that are public
+Allow: /api/health
+
+# Crawl delay (optional - be respectful)
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://personalized-content-dashboard.vercel.app/sitemap.xml
+
+# Additional sitemaps (if any)
+# Sitemap: https://personalized-content-dashboard.vercel.app/news-sitemap.xml
+# Sitemap: https://personalized-content-dashboard.vercel.app/movies-sitemap.xml
+
+# Block specific bots if needed (uncomment if required)
+# User-agent: BadBot
+# Disallow: /
+
+# Allow Google and Bing specifically
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Social media crawlers
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Archive crawlers
+User-agent: ia_archiver
+Allow: /
+
+# SEO tools
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 10

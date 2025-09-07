@@ -1,0 +1,68 @@
+{
+  "dashboard": {
+    "title": "Personalized Content Dashboard",
+    "welcome": "Welcome back!",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try again"
+  },
+  "navigation": {
+    "home": "Home",
+    "trending": "Trending",
+    "favorites": "Favorites",
+    "settings": "Settings",
+    "profile": "Profile",
+    "signOut": "Sign Out"
+  },
+  "content": {
+    "news": "News",
+    "movies": "Movies",
+    "social": "Social",
+    "readMore": "Read More",
+    "watchNow": "Watch Now",
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites",
+    "noContent": "No content available",
+    "loadMore": "Load More"
+  },
+  "search": {
+    "placeholder": "Search content...",
+    "noResults": "No results found",
+    "searching": "Searching..."
+  },
+  "settings": {
+    "title": "Settings",
+    "preferences": "Preferences",
+    "categories": "Categories",
+    "language": "Language",
+    "theme": "Theme",
+    "notifications": "Notifications",
+    "save": "Save Changes",
+    "cancel": "Cancel"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "demoAccount": "Demo Account",
+    "continueWith": "Or continue with"
+  },
+  "categories": {
+    "technology": "Technology",
+    "sports": "Sports",
+    "finance": "Finance",
+    "entertainment": "Entertainment",
+    "health": "Health",
+    "science": "Science",
+    "business": "Business",
+    "politics": "Politics"
+  },
+  "themes": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  }
+}

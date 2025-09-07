@@ -1,0 +1,68 @@
+{
+  "dashboard": {
+    "title": "Tableau de Bord de Contenu Personnalisé",
+    "welcome": "Bon retour !",
+    "loading": "Chargement...",
+    "error": "Quelque chose s'est mal passé",
+    "retry": "Réessayer"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "trending": "Tendances",
+    "favorites": "Favoris",
+    "settings": "Paramètres",
+    "profile": "Profil",
+    "signOut": "Se Déconnecter"
+  },
+  "content": {
+    "news": "Actualités",
+    "movies": "Films",
+    "social": "Social",
+    "readMore": "Lire Plus",
+    "watchNow": "Regarder Maintenant",
+    "addToFavorites": "Ajouter aux Favoris",
+    "removeFromFavorites": "Retirer des Favoris",
+    "noContent": "Aucun contenu disponible",
+    "loadMore": "Charger Plus"
+  },
+  "search": {
+    "placeholder": "Rechercher du contenu...",
+    "noResults": "Aucun résultat trouvé",
+    "searching": "Recherche..."
+  },
+  "settings": {
+    "title": "Paramètres",
+    "preferences": "Préférences",
+    "categories": "Catégories",
+    "language": "Langue",
+    "theme": "Thème",
+    "notifications": "Notifications",
+    "save": "Sauvegarder les Modifications",
+    "cancel": "Annuler"
+  },
+  "auth": {
+    "signIn": "Se Connecter",
+    "signUp": "S'inscrire",
+    "signOut": "Se Déconnecter",
+    "email": "Email",
+    "password": "Mot de Passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "demoAccount": "Compte Démo",
+    "continueWith": "Ou continuer avec"
+  },
+  "categories": {
+    "technology": "Technologie",
+    "sports": "Sports",
+    "finance": "Finance",
+    "entertainment": "Divertissement",
+    "health": "Santé",
+    "science": "Science",
+    "business": "Affaires",
+    "politics": "Politique"
+  },
+  "themes": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système"
+  }
+}
